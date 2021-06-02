@@ -22,8 +22,10 @@
 // when the function is done, comment-in the test
 
 function calculateGrade(grades) {
- 
-  // return letter grade: "A", "B", "C", "D", or "F"
+  }
+
+  //console.log(grade);
+  return grade;
 }
 
 testCalculateGrade();
